@@ -1,0 +1,2 @@
+git clone https://github.com/Maks-Diablo/Mathematical-reference-book
+git push https://github.com/Maks-Diablo/Mathematical-reference-book main
