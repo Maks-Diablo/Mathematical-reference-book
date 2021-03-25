@@ -1,5 +1,5 @@
 .LW {
-	width: 40%;
+	width: 50%;
 }
 
 .FL {
@@ -9,3 +9,37 @@
 .DL {
 	width: 30%;
 }
+
+footer {
+	font-family: Folio;
+}
+
+a.text-uppercase:active, /* активная/посещенная ссылка */
+a.text-uppercase {
+  text-decoration: none;
+  color: white;
+  font-size: 25px;
+}
+
+a.text-uppercase:hover {  /* при наведении */
+	color: white;
+}
+
+.LText {
+	font-size: 15px;
+	margin-left: 10%;
+	margin-right: 10%;
+	letter-spacing: 1px;
+}
+
+#a {
+	text-align: left;
+	position: center;
+}
+
+#s {
+	text-align: right;
+}
+
+
+

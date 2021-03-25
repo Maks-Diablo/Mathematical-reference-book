@@ -8937,13 +8937,45 @@ a.text-dark:hover, a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6; } }
 /*# sourceMappingURL=bootstrap.css.map */
+@font-face {
+  font-family: Folio;
+  src: url("../Fonts/13021.otf"); }
+body {
+  font-family: Folio; }
+
 .LW {
-  width: 40%; }
+  width: 50%; }
 
 .FL {
   width: 25%; }
 
 .DL {
   width: 30%; }
+
+footer {
+  font-family: Folio; }
+
+a.text-uppercase:active,
+a.text-uppercase {
+  text-decoration: none;
+  color: white;
+  font-size: 25px; }
+
+a.text-uppercase:hover {
+  /* при наведении */
+  color: white; }
+
+.LText {
+  font-size: 15px;
+  margin-left: 10%;
+  margin-right: 10%;
+  letter-spacing: 1px; }
+
+#a {
+  text-align: left;
+  position: center; }
+
+#s {
+  text-align: right; }
 
 /*# sourceMappingURL=styles.css.map */
