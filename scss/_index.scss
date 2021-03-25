@@ -43,3 +43,29 @@ a.text-uppercase:hover {  /* при наведении */
 
 
 
+ul.menu {
+	padding-left: 0;
+	padding-top: 0; 
+}
+
+ul.menu li {
+  	display: inline-block;
+  	margin: 2%;
+}
+ul.menu li a i.fa {
+	display: inline-block;
+	height: 30px;
+	width: 30px;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+	transition: all ease 0.2s;
+	font-size: 18pt;
+}
+
+ul.menu li a i.fa:hover {
+	text-align: center;
+  	color: red;
+  	font-size: 20pt;
+    transition: all ease 0.2s;
+}
